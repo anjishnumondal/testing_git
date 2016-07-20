@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+
+    <!--emergency contacts -->
+    <string name="fa_plus_circle">&#xf055;</string>
+    <string name="fa_shield">&#xf132;</string>
+    <string name="fa_phone">&#xf10b;</string>
+
+    <string name="police_label">Police</string>
+    <string name="police_row1_label">Non_Emergency</string>
+    <string name="police_row_1_no">101</string>
+    <string name="police_row2_label">Non_Emergency</string>
+    <string name="police_row_2_no">100</string>
+    
+    <!--employee list -->
+    <string name="fa_users">&#xf0c0;</string>
+    <string name="fa_edit">&#xf044;</string>
+    <string name="fa_remove">&#xf014;</string>
+    <string name="fa_clock">&#xf017;</string>
+
+    <string name="emp_name">David</string>
+    <string name="job">Player</string>
+    <string name="schedule">10am to 11am</string>
+
+    <!-- add employee -->
+    <string name="fa_user_add">&#xf234;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_calender">&#xf073;</string>
+    <string name="fa_gender">&#xf225;</string>
+
+    <!-- frequent visitors -->
+    <string name="fa_eye">&#xf06e;</string>
+    <string name="fa_attachment">&#xf0c6;</string>
+    <string name="fa_folder">&#xf114;</string>
+    <string name="fa_sticky_note">&#xf24a;</string>
+    <string name="fa_download">&#xf019;</string>
+
+    <string name="visitor_name">Rohit Roshan Sharma</string>
+    <string name="phone_no">+91 888 555 2525</string>
+    <string name="document_name">Aadhar Card</string>
+    <string name="document_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien libero, eleifend ut rhoncus ut, placerat non sem. Maecenas justo metus, rhoncus ut maximus vel, cursus sed justo.</string>
+    <string name="document_date">30 Jul</string>
+    <string name="uploader">Sonu Prasad</string>
+
+    <!-- notifications -->
+    <string name="fa_bell">&#xf0f3;</string>
+
+    <string name="notification_header">Electric Bill Reminder</string>
+    <string name="notification_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sapien libero, eleifend ut rhoncus ut, placerat non sem.</string>
+    <string name="notification_date">June 23 at 6:45 pm</string>
+
+    <!-- classified -->
+    <string name="fa_newspaper">&#xf1ea;</string>
+    <string name="fa_rupee">&#xf156;</string>
+    <string name="fa_upload">&#xf093;</string>
+
+    <!-- search_residents -->
+    <string name="fa_search">&#xf002;</string>
+
+    <string name="search_name">Promod Mohanty</string>
+    <string name="search_phone">+91 888 555 2525</string>
+    <string name="search_profession">Engineer</string>
+    <string name="search_block_no">II , 12</string>
+    <string name="search_flat_no">12</string>
+    
+    <!-- board_members -->
+    <string name="fa_envelope">&#xf0e0;</string>
+
+    <string name="ex_officio_name">Aadhishankar Sharma</string>
+    <string name="ex_offcio_designation">President</string>
+    <string name="ex_offio_phone">+91 888 555 2525</string>
+    <string name="ex_officio_mail">email.address@mail.com</string>
+
+</resources>
